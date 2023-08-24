@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title("My kids are naughty")
+streamlit.title("My kids are naughty!")
